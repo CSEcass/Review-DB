@@ -1,0 +1,56 @@
+{
+    "_default": {
+        "1": {
+            "title": "A Good Girls Guide to Murder",
+            "author": "Holly Jackson",
+            "genre(s)": [
+                "Mystery",
+                "Young Adult Literature"
+            ],
+            "rating": 5
+        },
+        "2": {
+            "title": "Wonder",
+            "author": "R. J. Palacio",
+            "genre(s)": [
+                "Novel",
+                "Fiction",
+                "Childrens Literature"
+            ],
+            "date": 2012,
+            "rating": 5
+        },
+        "3": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre(s)": [
+                "Novel",
+                "Literary fiction"
+            ],
+            "date": 1925,
+            "rating": 3.9
+        },
+        "4": {
+            "title": "The Diary of a Young Girl",
+            "author": "Anne Frank",
+            "genre(s)": [
+                "Biography",
+                "Autobiography",
+                "Personal Narrative"
+            ],
+            "date": 1947,
+            "rating": 4.2
+        },
+        "5": {
+            "title": "The Maze Runner",
+            "author": "James Dashner",
+            "genre(s)": [
+                "Novel",
+                "Young Adult Literature",
+                "Science Fiction"
+            ],
+            "date": 2009,
+            "rating": 4
+        }
+    }
+}
